@@ -1,5 +1,5 @@
 """
-Return config on servers to start for syncthing-proxy
+Return config on servers to start for syncthing
 
 See https://jupyter-server-proxy.readthedocs.io/en/latest/server-process.html
 for more information.
