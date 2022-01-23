@@ -9,7 +9,7 @@ import os
 def setup_syncthing_proxy():
     return {
         'command': [
-            "syncthing", "-no-browser"
+            "syncthing", "serve", "--no-browser"
         ],
         'port': 8384,
         'environment': {},
