@@ -3,7 +3,7 @@ import setuptools
 
 setuptools.setup(
     name="jupyter-syncthing-proxy",
-    version='1.0.1',
+    version='1.0.2',
     url="https://github.com/yuvipanda/jupyter-syncthing-proxy",
     author="Yuvi Panda",
     description="yuvipanda@gmail.com",
