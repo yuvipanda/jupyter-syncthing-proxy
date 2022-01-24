@@ -18,7 +18,7 @@ def setup_syncthing_proxy():
             "Host": "localhost"
         },
         'launcher_entry': {
-            'title': 'syncthing',
+            'title': 'Syncthing',
             'icon_path': os.path.join(os.path.dirname(os.path.abspath(__file__)), 'icons', 'logo.svg')
         }
     }
